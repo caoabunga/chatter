@@ -1,0 +1,30 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "A chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caoabunga/chatter.git"
+  },
+  "keywords": [
+    "chat",
+    "express"
+  ],
+  "author": "Cao, Hamann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoabunga/chatter/issues"
+  },
+  "homepage": "https://github.com/caoabunga/chatter",
+  "dependencies": {
+    "express": "^4.10.2",
+    "jade": "^1.7.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
